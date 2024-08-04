@@ -6,7 +6,7 @@ A repository containing my team's projects and solutions under the BOLT Hackatho
 <img src="https://i.imgur.com/An2OprO.jpeg">
 
 ## Related Repositories
-1. Frontend: https://github.com/manaslaud/intel-hack
+1. Frontend: https://github.com/Keshav-Aneja/intel_hack
 2. Backend: https://github.com/woaitsAryan/rekindle-backend
 3. Machine Learning: https://github.com/Yug-Oswal/BOLT-Hackathon/
 
